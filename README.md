@@ -1,6 +1,6 @@
 # TaiChiGraphicsFEM
 ## 仓库介绍
-本仓库为太极图形的fem实例
+本仓库为太极图形的fem实例，相关代码注释已经写进代码文件
 ## 环境配置
 运行环境为 Python3.9 需要pip taichi库
 ```bash
