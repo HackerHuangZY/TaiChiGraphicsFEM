@@ -1,2 +1,5 @@
 # TaiChiGraphicsFEM
 本仓库为太极图形的fem实例，运行环境为 Python3.9 需要pip taichi库
+在命令行中 python fem-explicit.py即可运行
+相关代码解释请查看https://zhuanlan.zhihu.com/p/651730751 以及 https://www.bilibili.com/video/BV1eY411x7mK/?spm_id_from=333.337.search-card.all.click
+![image]()
